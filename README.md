@@ -7,8 +7,12 @@
 ## Email Previews
 
 ### Schedule a Gift
-![Top Section](email-preview-01.png)  
-![Bottom Section](email-preview-02.png)
+table>
+  <tr>
+    <td><img src="email-preview-01.png" alt="Top Section" width="300"/></td>
+    <td><img src="email-preview-02.png" alt="Bottom Section" width="300"/></td>
+  </tr>
+</table>
 
 [View code](index.html)
 
