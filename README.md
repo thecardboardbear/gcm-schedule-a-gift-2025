@@ -7,12 +7,12 @@
 ## Email Previews
 
 ### Schedule a Gift
-table>
-  <tr>
-    <td><img src="email-preview-01.png" alt="Top Section" width="300"/></td>
-    <td><img src="email-preview-02.png" alt="Bottom Section" width="300"/></td>
-  </tr>
-</table>
+<div style="display: flex; gap: 10px;">
+
+  <img src="email-preview-01.png" alt="Top Section" width="300">
+  <img src="email-preview-02.png" alt="Bottom Section" width="300">
+
+</div>
 
 [View code](index.html)
 
