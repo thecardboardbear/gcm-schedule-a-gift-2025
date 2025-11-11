@@ -1,14 +1,13 @@
 # GCM - The Gift of Getting Things Done - Email
 
-## Description
-This project is an email template built with MJML and converted to HTML.
-
 ## Tech Stack
 - MJML → HTML
 - Inline CSS
 
-## Preview
-![Email Screenshot](email-preview.png)
+## Email Preview
+
+![Top Section](email-preview-01.png)
+![Bottom Section](email-preview-02.png)
 
 ## Code
 <!doctype html>
