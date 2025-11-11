@@ -25,3 +25,7 @@
 </div>
 
 [View code](emails/weekly-newsletter/index.html)
+
+### Fathers Day
+
+[View code](emails/weekly-newsletter/index.html)
