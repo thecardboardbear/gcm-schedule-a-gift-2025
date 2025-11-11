@@ -19,4 +19,4 @@
 ### Weekly Newsletter
 ![Top Section](emails/weekly-newsletter/email-preview-01.png)
 ![Bottom Section](emails/weekly-newsletter/email-preview-02.png)
-[View live email](https://your-username.github.io/repo-name/emails/weekly-newsletter/index.html)
+[View live email](https://thecardboardbear.github.io/repo-name/emails/weekly-newsletter/index.html)
