@@ -7,8 +7,9 @@
 ## Email Previews
 
 ### Schedule a Gift
-![Top Section](email-preview-01.png)
+![Top Section](email-preview-01.png)  
 ![Bottom Section](email-preview-02.png)
+
 [View code](index.html)
 
 ### Weekly Newsletter
