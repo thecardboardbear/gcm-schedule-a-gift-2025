@@ -25,3 +25,13 @@
 </div>
 
 [View code](emails/weekly-newsletter/index.html)
+
+### National Hamburger Day
+<div style="display: flex; gap: 10px;">
+
+  <img src="emails/weekly-newsletter/fthrday-1" alt="Top Section" width="300">
+  <img src="emails/weekly-newsletter/ftherday-2.png" alt="Bottom Section" width="300">
+
+</div>
+
+[View code](emails/weekly-newsletter/fathers-day-email.html)
