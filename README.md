@@ -19,4 +19,4 @@
 ### National Hamburger Day
 ![Top Section](emails/weekly-newsletter/email-preview-01.png)
 ![Bottom Section](emails/weekly-newsletter/email-preview-02.png)
-[View code] (emails/weekly-newsletter/index.html)
+[View code](emails/weekly-newsletter/index.html)
