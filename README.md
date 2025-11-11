@@ -7,8 +7,8 @@
 ## Email Previews
 
 ### Schedule a Gift
-![Top Section](emails/schedule-a-gift/email-preview-01.png)
-![Bottom Section](emails/schedule-a-gift/email-preview-02.png)
+![Top Section](email-preview-01.png)
+![Bottom Section](email-preview-02.png)
 [View live email](https://your-username.github.io/repo-name/emails/schedule-a-gift/index.html)
 
 ### Weekly Newsletter
