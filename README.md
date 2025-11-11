@@ -17,6 +17,11 @@
 [View code](index.html)
 
 ### National Hamburger Day
-![Top Section](emails/weekly-newsletter/email-preview-1-2.png)
-![Bottom Section](emails/weekly-newsletter/email-preview-2-2.png)
+<div style="display: flex; gap: 10px;">
+
+  <img src="emails/weekly-newsletter/email-preview-1-2.png" alt="Top Section" width="300">
+  <img src="emails/weekly-newsletter/email-preview-2-2.png" alt="Bottom Section" width="300">
+
+</div>
+
 [View code](emails/weekly-newsletter/index.html)
