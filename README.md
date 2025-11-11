@@ -19,8 +19,8 @@
 ### National Hamburger Day
 <div style="display: flex; gap: 10px;">
 
-  <img src="emails/weekly-newsletter/email-preview-1-2.png" alt="Top Section" width="300">
-  <img src="emails/weekly-newsletter/email-preview-2-2.png" alt="Bottom Section" width="300">
+  <img src="emails/weekly-newsletter/email-preview-1-2.png" alt="Top Section" width="591">
+  <img src="emails/weekly-newsletter/email-preview-2-2.png" alt="Bottom Section" width="591">
 
 </div>
 
