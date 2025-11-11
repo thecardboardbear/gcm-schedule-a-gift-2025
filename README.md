@@ -28,4 +28,4 @@
 
 ### Fathers Day
 
-[View code](emails/FathersDay%20Email/index.html)
+[View code](../emails/FathersDay%20Email/index.html)
