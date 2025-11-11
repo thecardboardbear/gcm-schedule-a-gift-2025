@@ -26,7 +26,7 @@
 
 [View code](emails/weekly-newsletter/index.html)
 
-### National Hamburger Day
+### Fathers Day
 <div style="display: flex; gap: 10px;">
 
   <img src="emails/weekly-newsletter/fthrday-1.png" alt="Top Section" width="300">
