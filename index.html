@@ -5,73 +5,56 @@
   <title>GCM - Email Previews</title>
   <style>
     body {
-      font-family: "Inter", Arial, sans-serif;
-      background: linear-gradient(180deg, #faf7ef 0%, #f3efe5 100%);
+      font-family: sans-serif;
+      background-color: #f3f4f7;
       padding: 40px 20px;
-      max-width: 1100px;
+      max-width: 1000px;
       margin: auto;
-      color: #333;
-    }
-
-    h1 {
-      text-align: center;
-      margin-bottom: 60px;
-      font-size: 36px;
-      font-weight: 700;
       color: #222;
-      letter-spacing: -0.5px;
     }
-
-    h2 {
+    h1, h2 {
       text-align: center;
-      font-size: 22px;
-      font-weight: 600;
-      margin-bottom: 25px;
-      position: relative;
-      padding-bottom: 10px;
     }
-
-    h2::after {
-      content: "";
-      width: 60px;
-      height: 3px;
-      background: #FAC840;
-      position: absolute;
-      bottom: 0;
-      left: 50%;
-      transform: translateX(-50%);
-      border-radius: 5px;
+    h1 {
+      margin-bottom: 50px;
+      font-size: 32px;
+      font-weight: 800;
+      color: #0A1A3C;
+    }
+    h2 {
+      margin-top: 0;
+      font-size: 22px;
+      font-weight: 700;
+      margin-bottom: 20px;
+      color: #0A1A3C;
     }
 
     .email-preview {
-      margin-bottom: 60px;
-      padding: 30px;
+      margin-bottom: 50px;
+      padding: 25px;
       background: #fff;
-      border-radius: 16px;
-      box-shadow: 0 4px 12px rgba(0,0,0,0.08);
-      transition: all 0.25s ease;
+      border-radius: 14px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.08);
+      transition: box-shadow 0.2s ease;
     }
-
     .email-preview:hover {
-      transform: translateY(-4px);
-      box-shadow: 0 8px 20px rgba(0,0,0,0.12);
+      box-shadow: 0 6px 16px rgba(0,0,0,0.12);
     }
 
     .images {
       display: flex;
-      gap: 15px;
+      gap: 14px;
       flex-wrap: wrap;
       justify-content: center;
       margin-bottom: 25px;
     }
-
     .images img {
       height: auto;
-      border-radius: 10px;
-      border: 1px solid #eaeaea;
-      box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+      border-radius: 8px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.08);
     }
 
+    /* Buttons container centered */
     .buttons {
       display: flex;
       justify-content: center;
@@ -82,24 +65,22 @@
     a.button {
       display: inline-block;
       padding: 12px 26px;
-      background-color: #FAC840;
+      background-color: #0A1A3C; /* midnight blue */
       color: #fff;
       font-weight: 700;
       text-decoration: none;
-      border-radius: 40px;
-      letter-spacing: 0.5px;
+      border-radius: 30px;
+      letter-spacing: 1px;
       text-align: center;
-      font-size: 14px;
+      border: 2px solid #0A1A3C;
       transition: all 0.25s ease;
-      box-shadow: 0 3px 6px rgba(0,0,0,0.12);
     }
 
     a.button:hover {
-      background-color: #e0b32e;
-      box-shadow: 0 4px 10px rgba(0,0,0,0.18);
-      transform: translateY(-2px);
+      background-color: #fff;
+      color: #0A1A3C;
+      border-color: #0A1A3C;
     }
-
   </style>
 </head>
 <body>
@@ -110,8 +91,8 @@
   <div class="email-preview">
     <h2>Schedule a Gift</h2>
     <div class="images">
-      <img src="email-preview-01.png" alt="Top Section" width="300px">
-      <img src="email-preview-02.png" alt="Bottom Section" width="300px">
+      <img src="email-preview-01.png" alt="Top Section" width="300">
+      <img src="email-preview-02.png" alt="Bottom Section" width="300">
     </div>
     <div class="buttons">
       <a href="emails/weekly-newsletter/email-01.html" target="_blank" class="button">Preview Email</a>
@@ -123,8 +104,8 @@
   <div class="email-preview">
     <h2>National Hamburger Day</h2>
     <div class="images">
-      <img src="emails/weekly-newsletter/email-preview-1-2.png" alt="Top Section" width="151px">
-      <img src="emails/weekly-newsletter/email-preview-2-2.png" alt="Bottom Section" width="151px">
+      <img src="emails/weekly-newsletter/email-preview-1-2.png" alt="Top Section" width="151">
+      <img src="emails/weekly-newsletter/email-preview-2-2.png" alt="Bottom Section" width="151">
     </div>
     <div class="buttons">
       <a href="emails/weekly-newsletter/index.html" target="_blank" class="button">Preview Email</a>
@@ -136,8 +117,8 @@
   <div class="email-preview">
     <h2>Father's Day</h2>
     <div class="images">
-      <img src="emails/weekly-newsletter/fthrday-1.png" alt="Top Section" width="300px">
-      <img src="emails/weekly-newsletter/fthrday-2.png" alt="Bottom Section" width="300px">
+      <img src="emails/weekly-newsletter/fthrday-1.png" alt="Top Section" width="300">
+      <img src="emails/weekly-newsletter/fthrday-2.png" alt="Bottom Section" width="300">
     </div>
     <div class="buttons">
       <a href="emails/weekly-newsletter/fathers-day-email.html" target="_blank" class="button">Preview Email</a>
